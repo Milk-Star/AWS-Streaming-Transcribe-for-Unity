@@ -1,5 +1,7 @@
 ﻿/// <summary>
 /// Performs 32-bit reversed cyclic redundancy checks.
+/// https://rosettacode.org/wiki/CRC-32
+/// GNU Free Documentation License 1.2 
 /// </summary>
 
 using System;
